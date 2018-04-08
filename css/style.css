@@ -30,7 +30,7 @@ header{
 }
 
 
-button{
+.boton1{
 	background-color: #1E90FF;
 	color:white;
 	width: 30%;
@@ -43,14 +43,31 @@ button{
    font-size: 190%;
 }
 
+.boton2{
+	background-color: #1E90FF;
+	color:white;
+	width: 40%;
+	display: block;
+	margin: auto;
+	padding: 2%;
+	margin-top:2%;
+	border: solid 1px #1E90FF; 
+   border-radius: 3%;
+   font-size: 130%;
+}
+
+
 .azul{
 	color:  #1E90FF;
 }
 
-.imagen1{
-	background-image: url("../img/pic01.jpg");
+.portfolio1 {
+    height: 300px;
     background-repeat: no-repeat;
-    background-size: 100% 100%
+	border-radius: 50%;
+	margin-top: 20%;
+	border: 2px solid #808080;
+    padding: 10px; 
 }
 
 i{
@@ -63,10 +80,21 @@ h1{
 	color: white;
 	margin: 2% 0;
 }
-.centrar--header{
-	margin-top: 20%;
+
+h2{
+	font-weight: bold;
+	text-align: center;
+	margin: 2% 0;
 }
 
-.text--center{
+p{
+	margin: 2% 0;
+}
+.centrar--header{
+	margin-top: 20%;
 	text-align: center;
+}
 
+.text--gray{
+	color: #808080;
+}
