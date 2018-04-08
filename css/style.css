@@ -9,6 +9,10 @@ header{
 	background-size: 100% 100%
 }
 
+body{
+	background-color: #F5F5F5;
+}
+
 .blanco{
 	color: white;
 	font-size: 1.5em;
@@ -64,6 +68,18 @@ header{
 	padding: 2%;
 	margin-top:2%;
 	border: solid 1px white; 
+   border-radius: 3%;
+   font-size: 130%;
+}
+
+.boton4{
+	background-color:  #1E90FF;
+	color: white;
+	display: block;
+	margin: auto;
+	padding: 2%;
+	margin-top:2%;
+	border: solid 1px  #1E90FF; 
    border-radius: 3%;
    font-size: 130%;
 }
@@ -130,4 +146,8 @@ p{
 
 .text--snow{
 	color: #F5F5F5
+}
+
+.txtctr{
+	text-align: center;
 }
