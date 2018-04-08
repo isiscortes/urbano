@@ -43,7 +43,6 @@ button{
    font-size: 190%;
 }
 
-<<<<<<< HEAD
 .azul{
 	color:  #1E90FF;
 }
@@ -52,8 +51,8 @@ button{
 	background-image: url("../img/pic01.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%
+}
 
-=======
 i{
     color:  white;
     font-family: "Lato", sans-serif;
@@ -70,5 +69,3 @@ h1{
 
 .text--center{
 	text-align: center;
->>>>>>> header
-}
