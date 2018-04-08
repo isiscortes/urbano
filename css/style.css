@@ -32,3 +32,13 @@ button{
 .azul{
 	color:  #1E90FF;
 }
+
+.imagen1{
+
+	background-image: url("../img/pic01.jpg");
+
+    background-repeat: no-repeat;
+
+    background-size: 100% 100%
+
+}
